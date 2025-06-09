@@ -70,6 +70,3 @@ Best performing setup:
 - Hugging Face Transformers (BERT)
 - GloVe Embeddings
 - Jupyter Notebooks
-
-## Repository Structure
-
